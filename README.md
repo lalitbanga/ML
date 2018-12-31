@@ -1,2 +1,2 @@
 # ML
-MachineLearning 
+MachineLearning code and some cases
